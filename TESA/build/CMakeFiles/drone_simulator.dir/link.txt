@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/drone_simulator.dir/src/main.c.o CMakeFiles/drone_simulator.dir/src/mock_data.c.o CMakeFiles/drone_simulator.dir/src/mqtt_client.c.o -o bin/drone_simulator  -lmosquitto -lm 

@@ -1,0 +1,3 @@
+/home/sunson3112/TESA-Test-Pi/TESA/build/CMakeFiles/drone_simulator.dir
+/home/sunson3112/TESA-Test-Pi/TESA/build/CMakeFiles/edit_cache.dir
+/home/sunson3112/TESA-Test-Pi/TESA/build/CMakeFiles/rebuild_cache.dir
