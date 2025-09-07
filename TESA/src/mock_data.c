@@ -33,7 +33,7 @@ double add_noise(double value, double noise_factor) {
 
 // Generate next detection record based on simulation state
 void generate_detection_record(simulation_state_t* state, detection_record_t* record) {
-    // Update timestamp
+    // Update timestamp (in milliseconds)
     struct timespec ts;
     clock_gettime(CLOCK_REALTIME, &ts);
     record->ts = ts.tv_sec * 1000 + ts.tv_nsec / 1000000;
